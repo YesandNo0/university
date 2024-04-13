@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\gamemagic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\gamemagic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\ispell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\ispell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\idamagebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\idamagebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\spells\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\spells\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\spells\\healingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\spells\\healingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\spells\\fireballlevel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\spells\\fireballlevel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\spells\\fireballlevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\spells\\fireballlevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\botai\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\botai\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|d:\\!_docs\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\c#\\consolegamebattleofthemages-bm1\\gamemagic\\diagrams\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{831A75FE-4913-422D-B647-50D7926580EA}|GameMagic\\GameMagic.csproj|solutionrelative:gamemagic\\diagrams\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Shop.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Shop.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Shop.cs",
+              "RelativeToolTip": "GameMagic\\Shop.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:21:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Mage.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Mage.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Mage.cs",
+              "RelativeToolTip": "GameMagic\\Mage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:47:06.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Program.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Program.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Program.cs",
+              "RelativeToolTip": "GameMagic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:46:11.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Character.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Character.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Character.cs",
+              "RelativeToolTip": "GameMagic\\Character.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAMwDgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:47:12.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDamagebl.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\IDamagebl.cs",
+              "RelativeDocumentMoniker": "GameMagic\\IDamagebl.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\IDamagebl.cs",
+              "RelativeToolTip": "GameMagic\\IDamagebl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:49:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISpell.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\ISpell.cs",
+              "RelativeDocumentMoniker": "GameMagic\\ISpell.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\ISpell.cs",
+              "RelativeToolTip": "GameMagic\\ISpell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:49:43.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMagic.csproj",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\GameMagic.csproj",
+              "RelativeDocumentMoniker": "GameMagic\\GameMagic.csproj",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\GameMagic.csproj",
+              "RelativeToolTip": "GameMagic\\GameMagic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T10:44:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\Spell.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Spells\\Spell.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\Spell.cs",
+              "RelativeToolTip": "GameMagic\\Spells\\Spell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:49:09.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealingSpell.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\HealingSpell.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Spells\\HealingSpell.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\HealingSpell.cs",
+              "RelativeToolTip": "GameMagic\\Spells\\HealingSpell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:19:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FireballLevel2.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\FireballLevel2.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Spells\\FireballLevel2.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\FireballLevel2.cs",
+              "RelativeToolTip": "GameMagic\\Spells\\FireballLevel2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:18:08.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FireballLevel1.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\FireballLevel1.cs",
+              "RelativeDocumentMoniker": "GameMagic\\Spells\\FireballLevel1.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Spells\\FireballLevel1.cs",
+              "RelativeToolTip": "GameMagic\\Spells\\FireballLevel1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:01:31.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\BotAI\\Bot.cs",
+              "RelativeDocumentMoniker": "GameMagic\\BotAI\\Bot.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\BotAI\\Bot.cs",
+              "RelativeToolTip": "GameMagic\\BotAI\\Bot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:45:58.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Diagrams\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "GameMagic\\Diagrams\\ClassDiagram1.cd",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440\\C#\\ConsoleGameBattleOfTheMages-BM1\\GameMagic\\Diagrams\\ClassDiagram1.cd",
+              "RelativeToolTip": "GameMagic\\Diagrams\\ClassDiagram1.cd",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-09T10:50:53.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

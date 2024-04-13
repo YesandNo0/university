@@ -1,0 +1,14 @@
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\bin\Debug\net6.0\GameMagic.exe
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\bin\Debug\net6.0\GameMagic.deps.json
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\bin\Debug\net6.0\GameMagic.runtimeconfig.json
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\bin\Debug\net6.0\GameMagic.dll
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\bin\Debug\net6.0\GameMagic.pdb
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.GeneratedMSBuildEditorConfig.editorconfig
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.AssemblyInfoInputs.cache
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.AssemblyInfo.cs
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.csproj.CoreCompileInputs.cache
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.dll
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\refint\GameMagic.dll
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.pdb
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\GameMagic.genruntimeconfig.cache
+D:\!_DOCS\Desktop\Универ\C#\ConsoleGameBattleOfTheMages-BM1\GameMagic\obj\Debug\net6.0\ref\GameMagic.dll
