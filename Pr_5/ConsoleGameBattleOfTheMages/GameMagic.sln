@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMagic", "GameMagic\GameMagic.csproj", "{831A75FE-4913-422D-B647-50D7926580EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831A75FE-4913-422D-B647-50D7926580EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831A75FE-4913-422D-B647-50D7926580EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831A75FE-4913-422D-B647-50D7926580EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831A75FE-4913-422D-B647-50D7926580EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF39A33-8F03-498D-A133-397AEF9D4EBC}
+	EndGlobalSection
+EndGlobal
